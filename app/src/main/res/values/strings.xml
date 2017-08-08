@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Quality Reading</string>
+    <string name="menu_item_logout">Logout</string>
+</resources>
